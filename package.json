@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-fsd-import-lint",
-  "version": "0.0.0",
+  "version": "0.0.9",
   "description": "plugin for linting imports by fsd architecture",
   "keywords": [
     "eslint",
